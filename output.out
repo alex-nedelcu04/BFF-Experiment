@@ -1,1 +1,212 @@
-ABABABABABAB
+Distribution: UNIFORM
+Mutation probability: 1/200
+Programs tested: 5000000
+First self-replicator found after: Not found
+Total unique self-replicators: 0
+Execution time: 1692.401 seconds
+----------------------------------------
+Distribution: UNIFORM
+Mutation probability: 1/100
+Programs tested: 5000000
+First self-replicator found after: Not found
+Total unique self-replicators: 0
+Execution time: 1687.088 seconds
+----------------------------------------
+Distribution: UNIFORM
+Mutation probability: 1/50
+Programs tested: 5000000
+First self-replicator found after: Not found
+Total unique self-replicators: 0
+Execution time: 1684.490 seconds
+----------------------------------------
+Distribution: UNIFORM
+Mutation probability: 1
+Self-replicating 1 (program 3814682, score 64): 40 80 2d 35 fe 39 6a d1 78 60 b7 61 9a 69 4 72 e3 f7 24 8d 53 0 15 91 cf 40 c3 d5 79 c7 fe 7b 3d 62 7f 8c 17 b5 66 5a 56 9a 25 be 6 9d cb 95 9b fa 2a 41 b 45 e6 4a 99 7d 32 71 4f 1d 2b eb 
+Self-replicating 2 (program 4530166, score 59): 3b fb 23 f1 74 cd 9a dd e6 4 39 fb 57 84 87 0 1 23 89 1c 8e 40 df 0 1a 22 f6 6d 88 1d 5f e7 90 dc f5 b0 a7 9d 4a e3 19 62 11 17 3b 32 cf 43 6 64 5c d6 4e 8d b1 22 1c cf c1 37 1d 85 a8 98 
+Programs tested: 5000000
+First self-replicator found after: 3814682 programs
+Total unique self-replicators: 2
+Execution time: 1738.027 seconds
+----------------------------------------
+Distribution: CUST
+Mutation probability: 1/200
+Self-replicating 1 (program 4704036, score 63): fa 7c 1 6 34 6 64 2a 35 0 5 75 2 65 4 7c 49 df d0 0 4 11 2 15 63 39 4 1 46 2 51 5 fa 4 0 55 c6 b b8 6 5 23 0 de 5 1 3 2 5 c0 5 cd a5 2 80 73 6 33 4 4 f5 48 0 6e 
+Programs tested: 5000000
+First self-replicator found after: 4704036 programs
+Total unique self-replicators: 1
+Execution time: 1737.395 seconds
+----------------------------------------
+Distribution: CUST
+Mutation probability: 1/100
+Self-replicating 1 (program 3618522, score 54): bb fc 0 e8 4 dc c4 f0 0 85 5 4 3 2 0 4 ff 0 3 36 12 e9 7c e8 f 77 2 6 ee 61 88 61 5 3 87 4 2 c1 6 5 1 3 1 fa d9 cf ef 2 d4 0 1f 2 2 a3 22 2 19 b0 6 6b b0 cf 0 f5 
+Self-replicating 2 (program 3621522, score 59): bb fc 0 e8 4 dc c4 f0 0 85 5 4 3 2 0 4 ff 0 3 36 12 e9 7c e8 f 77 2 6 ee 61 88 61 5 3 87 4 2 c1 6 5 1 3 1 fa d9 cf ef 2 d4 0 1f 2 2 a3 22 2 19 b0 6 6b 5 cf 0 f5 
+Self-replicating 3 (program 3622522, score 56): bb fc 0 e8 4 dc c4 f0 0 85 5 4 3 2 0 4 ff 0 3 36 12 e9 7c e8 f 77 2 6 ee 61 88 61 5 3 87 4 2 c1 6 5 1 3 1 fa d9 cf 4 2 d4 0 1f 2 2 a3 22 2 19 b0 6 6b 5 cf 0 f5 
+Self-replicating 4 (program 3623522, score 59): bb fc 0 e8 4 dc c4 f0 0 85 5 4 3 2 0 4 ff 0 3 36 12 e9 7c e8 f 77 2 6 ee 61 88 61 5 3 87 4 2 c1 6 5 1 3 1 fa d9 23 4 2 d4 0 1f 2 2 a3 22 2 19 b0 6 6b 5 cf 0 f5 
+Programs tested: 5000000
+First self-replicator found after: 3618522 programs
+Total unique self-replicators: 4
+Execution time: 1740.831 seconds
+----------------------------------------
+Distribution: CUST
+Mutation probability: 1/50
+Self-replicating 1 (program 797229, score 60): 42 0 d8 1 0 68 46 1 1 75 3 d4 3 19 5 41 4 24 1f be 0 38 7b e3 b4 5f 6 2 0 c5 1 4 3 84 96 4 3 0 5 35 ea df f3 52 c3 31 4 2d 0 0 0 a9 dc 2a 4b 1 75 f4 bd 5 0 56 0 6 
+Programs tested: 5000000
+First self-replicator found after: 797229 programs
+Total unique self-replicators: 1
+Execution time: 1738.782 seconds
+----------------------------------------
+Distribution: CUST
+Mutation probability: 1
+Self-replicating 1 (program 542297, score 55): c0 0 5 35 2 2 88 4c 4 4f 0 84 cf 6a 0 ed 0 1 d6 1 d 6 94 1b 83 4 2 2 69 3 5 3 5d 3 c5 eb 72 b0 4 ac 58 4 d5 99 0 6 71 5 76 5 57 e fd 2 2 b1 c8 e9 b5 fc 5 3 e 2 
+Self-replicating 2 (program 820581, score 58): be fe 2 2 4 0 36 6 2 dd 6 1 6 21 5a 4 48 69 1 1 32 3 3c 7e 0 bb 1 92 53 e9 4 2e 2 6 0 1e 6 4 6 3 b6 59 23 5 5 17 3 5 3 3 2 5 0 55 0 b6 8b 25 5 f8 d5 0 2 3a 
+Self-replicating 3 (program 1515794, score 55): 40 0 63 2a 0 13 e 2 1 14 81 5 fc 0 50 1 ea 7a f6 df 9b 2 5 b5 2 c9 30 4 c7 0 3 4 0 92 3 6 59 1 92 87 19 1 7e 59 6b b1 2b 5 4 16 3 2 0 6 8c 5f 2 78 8d 21 d2 54 1 1 
+Self-replicating 4 (program 1533141, score 57): bc f9 5 2 1 46 1 83 0 5 5 1 9d 4 6c 53 4 5 0 b4 5 2 51 3 11 4 0 6 90 10 0 5 25 5 12 2 f 6 a6 ff 5d 1 1 aa 0 cf 69 0 1 3b 34 30 c9 4 23 5 8d 4 6 ec 3 3 7 5 
+Self-replicating 5 (program 1537146, score 59): bc 7c 5 22 28 42 4 0 2 a7 10 4c 2 26 d7 4 1d 0 ce 6 c7 4 4 bd 2 0 27 b 5 6 1 0 94 b 4 4 4 3 d7 6d 60 ea 6 1 2 2 4 83 2 0 3b 27 3 6 1 1 5 21 4 2 8c 57 1 1 
+Self-replicating 6 (program 1917184, score 64): c0 0 4 ad 73 1f 6 a 38 d9 ec a5 df 6 0 d5 92 f0 4 6 4b fd 4 33 8f 3 ee e 1 cb 7e 3 2 57 1 3d 6 df 5 11 2 2 4 3 2a 81 44 3 ee 4 5 cb b8 3d 1 88 1 30 8a 72 1 1 b1 29 
+Self-replicating 7 (program 2030244, score 60): 3e 7e 2 9f 5 4 0 1 92 0 3 6 3f 77 2 31 0 ac 0 1 23 78 49 3 1b e8 4 88 2 92 74 85 1 8a 8e 5 21 89 9d d8 91 3a 6 1 4 5 24 5 8b 28 1 5f 2d a6 2 3 5 2 1 2 55 84 e1 92 
+Self-replicating 8 (program 2031256, score 59): c1 0 f 3 fd 1 f8 20 f8 0 1 2 2 f8 85 14 b8 dd 6c 1a 4 0 2 1f 3 6 f7 1 61 21 95 33 2 7 93 7d 3 a5 a8 9d 5 9c 1 0 63 14 6 bc 1 2 2 2 cc 5 ec 5 45 3 40 44 2b 2 48 66 
+Self-replicating 9 (program 2340962, score 48): bf 7f b2 4 3 2a f1 2 0 cb 6 6 9f ce 59 3 4e c7 78 b0 26 1c e9 1 4d 5 12 2 48 e8 0 2 3 8 4e 27 1 3 f7 c 0 6 3 a0 c6 6 5 9f 6 45 5 0 1 92 bc 2 1 2e 4 be 53 2 54 2 
+Self-replicating 10 (program 2369510, score 61): c3 0 5 ca 72 6d c 78 fe 3 6d 1 1 1 5 78 88 4 0 6 3 0 12 2 0 8c d7 0 2 6 81 6 4 5 34 4 fa 0 2 1 1 5c 2c 44 4 b4 2d 1 48 1 4 2 b2 d5 1 76 da 1 0 36 20 ab 2 e1 
+Self-replicating 11 (program 2418486, score 55): 38 f8 3 23 5 7e 3 23 3 86 2 4 0 6 42 8 1 2 fd 6 0 5 4 5 4 96 1 0 5 1 de 2 c6 be 5 3 6 5 3 0 5 ce 0 2a 1 1 3d 5 89 1a 5d 0 6 8d fe 4b 5 68 99 e3 5 c4 4 1 
+Self-replicating 12 (program 3549908, score 63): c2 0 fa 66 2 1f 2 1 aa a9 1 5 2 4 4d d1 0 3e 6 65 4 0 91 3 1 36 5e 5 0 4 1 f4 0 5 4 4 6 4 5 4 6 dc 5 f 53 60 74 8 51 f8 0 1 5 4d 0 1 4 c5 f3 5 af 1 ba 4 
+Self-replicating 13 (program 3793933, score 51): 33 f3 d1 71 32 9e 2 82 53 be 5 2 2 0 79 9f 1e cc 80 dc 4 7b 79 d3 5 4 0 17 2 3c 3 6 6 0 d5 d0 1 3a e6 5 24 4e 0 94 0 76 b7 6f 39 8d 4a f0 55 77 8b f4 a9 3 1 2a c0 5 5 c2 
+Self-replicating 14 (program 4934478, score 62): c1 0 7 1 a9 7e ca 47 2 5 98 9 4 6a 0 a4 ab 2 3 6 8b 5 d3 1 61 1 0 6 0 3 8f d3 1 2 4 4 2f 2d 2 2 1 fc 80 0 3 6 e ed 1 f2 10 0 c8 4 6c 5 2 56 0 2 2 f 4 3a 
+Programs tested: 5000000
+First self-replicator found after: 542297 programs
+Total unique self-replicators: 14
+Execution time: 1746.367 seconds
+----------------------------------------
+Distribution: CUST64
+Mutation probability: 1/200
+Self-replicating 1 (program 181177, score 53): 40 0 2 a8 5 39 4 0 1 e3 0 f5 3 6 3 8 85 1 1 1 d7 0 40 0 9a 0 2 b3 6c 40 40 3 4 1 5 8c 1 6 fe 3 0 2 5 49 41 a 6 5 0 6 70 6 cb 9e aa 1 97 54 31 23 3 6 5 0 
+Self-replicating 2 (program 183177, score 48): 40 0 2 a8 5 39 4 0 1 e3 0 f5 3 6 3 8 85 1 1 1 d7 0 40 0 9a 0 2 b3 6c 40 0 3 4 1 5 8c 1 6 fe 3 0 2 5 49 41 a 6 5 0 6 70 6 cb 9e aa 1 97 54 31 23 3 6 5 0 
+Self-replicating 3 (program 188177, score 56): 40 0 2 a8 5 39 4 0 1 e3 0 f5 3 6 3 8 85 1 1 1 d7 0 40 0 9a 0 2 b3 6c 40 20 3 4 1 5 8c 1 6 fe 3 0 2 5 49 41 a 6 5 0 6 70 6 cb 9e aa 1 97 54 31 23 3 6 5 0 
+Self-replicating 4 (program 190177, score 57): 40 0 2 a8 5 39 4 0 1 e3 0 f5 3 6 3 8 85 1 1 ee d7 0 40 0 9a 0 2 b3 6c 40 20 3 4 1 5 8c 1 6 fe 3 0 2 5 49 41 a 6 5 0 6 70 6 cb 9e aa 1 97 54 31 23 3 6 5 0 
+Self-replicating 5 (program 640799, score 63): 40 80 c5 4 f8 cb 0 6 40 23 1 2 40 2 48 6d 12 69 0 6 c2 d5 4d 3 c5 40 cf ee 2d d8 a9 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 a2 de e0 5 40 31 bb 71 ec 72 94 a8 9f a9 40 70 20 53 3d 
+Self-replicating 6 (program 649799, score 53): 40 80 c5 4 f8 cb 0 6 40 23 1 2 40 2 48 6d 12 69 0 6 c2 d5 29 3 c5 40 cf ee 2d d8 a9 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 a2 de e0 5 40 31 bb 71 ec 72 94 a8 9f a9 40 70 20 53 3d 
+Self-replicating 7 (program 650799, score 58): 40 80 c5 4 f8 cb 0 6 40 23 1 2 40 2 48 6d 12 69 0 6 c2 d5 29 3 c5 40 cf ee 2d d8 a9 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 a2 de e0 5 40 31 bb 71 ec 72 94 40 9f a9 40 70 20 53 3d 
+Self-replicating 8 (program 651799, score 63): 40 80 c5 4 f8 cb 0 6 40 23 1 2 40 2 48 6d 12 69 0 6 c2 d5 29 3 c5 40 cf ee 2d d8 a9 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 a2 de e0 5 40 31 bb 71 ec 72 4 40 9f a9 40 70 20 53 3d 
+Self-replicating 9 (program 653799, score 64): 40 80 c5 4 f8 cb 0 6 5 23 1 2 40 2 48 6d 12 69 0 6 c2 d5 29 3 c5 40 cf ee 2d d8 a9 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 a2 de e0 5 40 31 bb 71 ec 72 4 40 9f a9 40 70 20 53 3d 
+Self-replicating 10 (program 656799, score 64): 40 80 c5 4 f8 cb 0 6 5 23 1 2 40 2 48 6d 12 69 0 6 c2 5 29 3 c5 40 cf ee 2d d8 a9 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 a2 de e0 5 40 31 bb 71 ec 72 4 40 9f a9 40 70 20 40 3d 
+Self-replicating 11 (program 658799, score 64): 40 80 c5 4 d0 cb 0 6 5 23 1 2 40 2 48 6d 12 69 0 6 c2 5 29 3 c5 40 cf ee 2d d8 a9 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 a2 de e0 5 40 31 bb 71 ec 72 4 2 9f a9 40 70 20 40 3d 
+Self-replicating 12 (program 671799, score 64): 40 80 c5 4 d0 cb 0 6 5 23 1 2 40 2 48 6d 12 69 0 6 c2 5 29 3 c5 40 cf ee 2d d8 a9 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 a2 de e0 5 40 31 bb 71 ec 72 4 2 9f a9 40 70 20 fb 3d 
+Self-replicating 13 (program 677799, score 64): 40 80 c5 4 d0 cb 0 6 5 23 1 2 40 2 48 6d 12 69 0 6 c2 5 29 3 c5 40 cf ee 2d d8 a9 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 ae de e0 5 40 31 bb 71 ec 72 4 2 9f a9 40 70 20 fb 3d 
+Self-replicating 14 (program 680799, score 54): 40 80 c5 4 d0 cb 0 6 5 23 1 2 40 2 48 6d 12 69 0 6 c2 5 29 3 c5 40 cf ee 2d d8 4 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 ae de e0 5 40 31 bb 71 ec 72 4 2 9f a9 40 70 20 fb 3d 
+Self-replicating 15 (program 681799, score 64): 40 80 c5 4 d0 cb 0 6 5 23 1 2 40 2 48 6d 12 69 0 6 c2 5 29 3 c5 40 cf ee 2d d8 4 14 40 3 8d 3b 4 f8 fb 98 5 5 4 a3 40 ae de e0 5 40 31 bb 71 ec 72 4 2 9f a9 40 70 20 33 3d 
+Self-replicating 16 (program 686799, score 64): 40 80 c5 4 d0 cb 0 6 5 23 1 2 40 2 48 6d 12 69 0 6 c2 5 29 3 c5 40 cf ee 2d d8 4 14 40 3 8d 3b 4 38 fb 98 5 5 4 a3 40 ae de e0 5 40 31 bb 71 ec 72 4 2 9f a9 40 70 20 33 3d 
+Self-replicating 17 (program 1315806, score 64): 40 0 fd 5 5 62 3 40 2 b3 4 d6 0 3e b8 6 4d 1 5 6 9f 4 8d 27 e4 d 1 f4 bc 3b 1 0 bd aa 3f 4 53 b5 32 40 3 6 b4 ad 5 22 5 7e ba 3c e7 3 1 2 3 1 29 4 40 2d 0 6 1 4 
+Self-replicating 18 (program 1327806, score 64): 40 0 fd 5 5 62 3 40 2 b3 4 d6 0 3e b8 6 4d 1 5 6 9f 4 8d 27 e4 d 1 f4 bc 3b 1 0 bd aa 3f 4 53 b5 32 40 3 6 b4 ad 5 22 5 7e ba 3c e7 3 1 2 3 1 29 4 d 2d 0 6 1 4 
+Self-replicating 19 (program 1337806, score 63): 40 0 fd 5 5 62 3 40 2 b3 4 d6 0 3e b8 6 4d 1 5 6 9f 4 8d 27 e4 d 1 f4 bc 3b 1 0 bd aa 3f 4 53 b5 32 3 3 6 b4 ad 5 22 5 7e ba 3c e7 3 1 2 3 1 29 4 d 2d 0 6 1 4 
+Self-replicating 20 (program 1344806, score 56): 40 0 fd 5 5 62 3 40 2 b3 4 d6 0 3e b8 6 4d 1 5 6 9f 4 8d 27 e4 5 1 f4 bc 3b 1 0 bd aa 3f 4 53 b5 32 3 3 6 b4 ad 5 22 5 7e ba 3c e7 3 1 2 3 1 29 4 d 2d 0 6 1 4 
+Self-replicating 21 (program 1345806, score 64): 40 0 fd 5 5 62 3 40 2 b3 4 d6 0 3e b8 6 4d 1 5 6 9f 4 8d 27 e4 5 1 f4 bc 3b 1 0 bd aa 3f 4 53 b5 32 3 3 6 b4 ad b 22 5 7e ba 3c e7 3 1 2 3 1 29 4 d 2d 0 6 1 4 
+Self-replicating 22 (program 1354806, score 52): 40 0 fd 5 5 62 3 40 2 b3 4 d6 0 3e b8 6 4d 1 5 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd aa 3f 4 53 b5 32 3 3 6 b4 ad b 22 5 7e ba 3c e7 3 1 2 3 1 29 4 d 2d 0 6 1 4 
+Self-replicating 23 (program 1370806, score 52): 40 0 fd 5 5 62 3 40 2 b3 4 d6 0 3e b8 6 4d 1 5 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd aa 3f 4 53 b5 32 3 3 6 b4 ad b 22 5 7e ba 3c e7 3 1 2 3 1 29 4 d 2d 0 6 5c 4 
+Self-replicating 24 (program 1374806, score 64): 40 0 fd 5 5 62 3 40 2 b3 4 d6 0 3e b8 6 4d 1 5 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd aa 3f 4 53 b5 32 3 3 6 b4 ad b 22 5 7e 1 3c e7 3 1 2 3 1 29 4 d 2d 0 6 5c 4 
+Self-replicating 25 (program 1375806, score 64): 40 0 fd 5 5 62 3 40 2 f7 4 d6 0 3e b8 6 4d 1 5 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 54 3f 4 53 b5 32 3 3 6 b4 ad b 22 5 7e 1 3c e7 3 1 2 3 1 29 4 d 2d 0 6 5c 4 
+Self-replicating 26 (program 1377806, score 48): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 5 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 54 3f 4 53 b5 32 3 3 6 b4 ad b 22 5 7e 1 3c e7 3 1 2 3 1 29 4 d 2d 0 6 5c 4 
+Self-replicating 27 (program 1378806, score 58): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 5 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 54 3f 4 53 b5 32 3 3 6 b4 ad b 22 5 7e 1 3c e7 3 1 2 3 ad 29 4 d 2d 0 6 5c 4 
+Self-replicating 28 (program 1384806, score 64): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 5 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 54 3f 4 53 b5 32 3 3 6 b4 ad b 22 5 7e 1 3c e7 3 1 2 3 ad 29 4 d 2d 4e 6 5c 4 
+Self-replicating 29 (program 1393806, score 56): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 5 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 54 3f 4 53 b5 b1 3 3 6 b4 ad b 22 5 7e 1 3c e7 3 1 2 3 ad 29 4 d 2d 4e 6 5c 4 
+Self-replicating 30 (program 1412806, score 56): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 c9 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 54 3f 4 53 b5 b1 3 3 6 b4 ad b 22 fe 5 1 3c e7 3 1 2 3 ad 29 5 81 2d 4e 6 5c 4 
+Self-replicating 31 (program 1416806, score 56): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 c9 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 54 3f 4 53 b5 b1 3 3 6 b4 ad b 22 fe 5 1 3c e7 3 1 2 3 ad 29 5 81 9c 4e 6 5c 4 
+Self-replicating 32 (program 1417806, score 57): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 c9 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 3 3f 4 53 b5 b1 3 3 6 b4 ad b 22 fe 5 1 3c e7 3 1 2 3 ad 29 5 81 9c 4e 6 5c 4 
+Self-replicating 33 (program 1432806, score 56): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 c9 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 3 3f 4 53 b5 b1 3 3 6 b4 ad b 22 fe 5 1 3c e7 3 1 2 3 ad 29 5 81 9c 4e c5 5c 4 
+Self-replicating 34 (program 1433806, score 56): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 c9 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 3 3f 4 53 b5 b1 3 3 6 b4 ad b 22 fe 5 cb 3c e7 3 1 2 3 ad 29 5 81 9c 4e c5 5c 4 
+Self-replicating 35 (program 1439806, score 56): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 c9 6 9f 2 8d 27 e4 5 1 f4 bc 3b 1 0 bd 3 3f 4 53 b5 b1 3 3 6 b4 ad b 22 fe 5 cb 3c e7 3 1 40 3 ad 29 5 81 9c 4e c5 5c 4 
+Self-replicating 36 (program 1449806, score 56): 40 0 fd 5 5 3 3 40 2 f7 4 d6 0 3e b8 6 4d 1 c9 6 9f 2 8d 5f e4 5 1 f4 bc 3b 1 0 bd 3 3f 4 53 b5 b1 3 3 6 b4 ad b 22 fe 5 cb 3c e7 3 1 40 3 ad 29 5 81 9c 4e c5 5c 4 
+Programs tested: 5000000
+First self-replicator found after: 181177 programs
+Total unique self-replicators: 36
+Execution time: 1733.199 seconds
+----------------------------------------
+Distribution: CUST64
+Mutation probability: 1/100
+Self-replicating 1 (program 1081220, score 62): 40 0 3 13 a 86 5 4 0 6 17 77 96 4 5 40 6 73 1 8b 27 3 1 2f 3 2 40 1 4a 40 0 6d 40 6 40 66 2 49 a 5 32 7f 88 5 6 b3 5 a 6 51 1 6 6 40 40 4 5 2 6c bf 2e dc 4 1 
+Self-replicating 2 (program 1082220, score 58): 40 0 3 13 a 86 5 4 0 6 17 77 96 4 5 40 6 73 1 8b 27 3 1 2f 3 2 40 1 4a 40 0 6d 40 6 40 66 2 49 a 5 32 7f 88 5 6 b3 5 a 6 51 1 6 6 40 40 4 5 2 8 bf 2e dc 4 1 
+Self-replicating 3 (program 1177868, score 54): 40 0 76 5 6b 40 55 4 58 9 0 1 0 6 5a d8 2 70 b4 0 4 5 b5 2 2 2 2 43 f3 84 df 40 40 1 10 2 c2 3 79 40 3 1a de aa 1 35 fa 0 4e 3d 6 4 8e 5 5 e2 80 2 ff 84 0 3 3 ac 
+Self-replicating 4 (program 1702997, score 63): 40 7f c0 4 5 ed 4 ad 87 0 2 40 2a 9e 40 14 4 8b 0 6 87 3b b5 40 b1 6d 6c 5 3 0 0 d 9a d 1a 90 a6 ff 4 0 6 9a 6 5 cf b ab 0 94 a6 0 40 29 0 6 4 5 82 fd 3 50 f 1 fb 
+Self-replicating 5 (program 1703997, score 63): 40 7f c0 4 5 ed 4 ad 87 0 2 40 2a 9e 40 14 4 8b 0 6 16 3b b5 40 b1 6d 6c 5 3 0 0 d 9a d 1a 90 a6 ff 4 0 6 9a 6 5 cf b ab 0 94 a6 0 40 29 0 6 4 5 82 fd 3 50 f 1 fb 
+Self-replicating 6 (program 1705997, score 63): 40 7f c0 4 5 ed 4 ad 87 0 2 40 2a 9e 40 14 4 8b 0 6 16 3b b5 40 b1 6d 6c 5 3 0 0 d 9a d 1a 90 a6 ff 4 0 6 9a 6 5 cf b ab 0 94 a6 0 40 29 0 6 0 5 82 fd 3 50 f 1 fb 
+Self-replicating 7 (program 1706997, score 63): 40 7f c0 4 5 ed 4 ad 87 0 2 40 2a 9e 40 14 4 8b 0 6 16 3b b5 40 b1 6d 6c 5 3 0 0 d 9a d 1a 90 a6 ff 4 0 6 9a 6 5 cf b ab 0 94 a6 0 40 29 0 6 0 5 82 fd 3 50 f 1 9f 
+Self-replicating 8 (program 1708997, score 63): 40 7f c0 4 5 ed 4 ad 87 0 2 40 2a 9e 40 14 4 8b 0 6 16 3b b5 a9 b1 6d 6c 5 3 0 0 d 9a d 1a 90 a6 ff 4 0 6 9a 6 5 cf b ab 0 94 a6 0 40 29 0 6 0 5 82 fd 3 50 f 1 9f 
+Self-replicating 9 (program 1710997, score 62): 40 7f c0 4 5 ed 4 ad 87 0 2 40 2a 9e 40 14 4 8b 0 6 16 3b b5 a9 b1 6d 6c 5 3 0 0 d 9a d 1a 90 a6 ff 4 0 6 9a 6 5 cf b ab 0 94 a6 0 40 29 0 6 0 5 82 fd 3 50 f 49 9f 
+Self-replicating 10 (program 1715997, score 63): 40 7f c0 4 5 ed 4 ad 87 0 2 40 2a 9e 40 14 4 8b 0 6 16 3b b5 a9 b1 6d 6c 5 3 0 0 d 9a d 1a 90 a6 ff 4 0 6 9a 6 5 cf b ab 0 94 a6 0 40 29 0 6 0 5 82 fd b7 50 f 49 9f 
+Self-replicating 11 (program 1719997, score 64): 40 7f c0 4 5 ed 4 ad 87 0 2 40 2a 9e 40 14 4 8b 0 6 16 3b b5 a9 b1 6d 6c 5 3 0 0 d 9a d 1a 90 5 ff 4 0 6 9a 6 5 cf b ab 0 94 a6 0 40 29 0 6 0 5 82 fd b7 50 f 49 9f 
+Self-replicating 12 (program 2224693, score 64): c0 0 11 f9 5 aa 62 3 a1 fb 5d 5 2d bf 88 49 5 21 2d 4 f8 0 6 8 4 30 89 78 bc 97 23 cd 40 60 40 49 12 40 3 40 2 98 6 f4 1 9f 0 f3 5 3 ab 5 65 5 e 2 e1 4 f2 0 5 0 3 2 
+Self-replicating 13 (program 2228693, score 49): c0 0 11 f9 5 aa 62 3 a1 fb 5d 5 2d bf 88 64 5 21 2d 4 f8 0 6 8 4 30 89 78 bc 97 23 cd 40 60 40 49 12 40 3 40 2 98 6 f4 1 9f 0 f3 5 3 ab 5 65 5 e 2 e1 4 f2 0 5 0 3 2 
+Self-replicating 14 (program 2231693, score 64): c0 0 11 f9 5 aa 62 3 a1 fb 5d 5 2d bf 88 64 5 21 2d 4 f8 0 6 8 4 30 89 78 bc 97 23 0 40 60 40 49 12 40 3 40 2 98 6 f4 1 9f 0 f3 5 3 ab 5 65 5 e 2 e1 4 f2 0 5 0 3 2 
+Self-replicating 15 (program 2233693, score 63): c0 0 11 f9 5 aa 62 3 a1 fb 5d 5 2d bf 88 64 5 21 2d 4 f8 0 6 8 4 30 89 78 bc 97 23 0 2 60 40 49 12 40 3 40 2 98 6 f4 1 9f 0 f3 5 3 ab 5 65 5 e 2 e1 4 f2 0 5 0 3 2 
+Self-replicating 16 (program 2237693, score 64): c0 0 11 f9 5 aa 62 3 a1 fb 5d 5 2d bf 88 64 5 21 2d 4 f8 0 6 8 4 30 89 78 bc 97 23 0 2 60 40 49 12 40 3 40 2 98 6 f4 1 9f 0 f3 5 3 ab 5 65 5 38 2 e1 4 f2 0 5 0 3 2 
+Self-replicating 17 (program 2260867, score 64): 40 0 5 4 77 b6 0 bf 6 1 44 0 84 2 f8 ac 5 5 32 4 0 1 6 2 7f 6 a3 d9 a7 2 4 6 1 da 6 f6 7f d1 1 ba 3 12 0 5 da 5 73 9a ff 2 6 ec 5 9a a9 56 73 1 4 40 40 5 3 b3 
+Self-replicating 18 (program 2261867, score 63): 40 0 5 4 77 b6 0 bf 6 1 35 0 84 2 f8 ac 5 5 32 4 0 1 6 2 7f 6 a3 d9 a7 2 4 6 1 da 6 f6 7f d1 1 ba 3 12 0 5 da 5 73 9a ff 2 6 ec 5 9a a9 56 73 1 4 40 40 5 3 b3 
+Self-replicating 19 (program 2267867, score 48): 40 0 5 4 77 b6 0 bf 6 1 35 0 84 2 f8 ac 5 5 32 4 0 1 6 2 7f 6 a3 d9 a7 2 4 6 1 da 6 f6 7f d1 1 ba 3 12 0 5 da 5 73 9a ff 2 6 ec 5 9a a9 56 73 1 4 40 96 5 3 b3 
+Self-replicating 20 (program 2268867, score 64): 40 0 5 4 77 b6 0 bf 6 1 35 0 84 2 f8 ac 5 5 32 4 0 1 6 2 7f 6 a3 d9 a7 2 4 6 1 da 6 f6 40 d1 1 ba 3 12 0 5 da 5 73 9a ff 2 6 ec 5 9a a9 56 73 1 4 40 96 5 3 b3 
+Self-replicating 21 (program 3942304, score 64): 40 0 5 4 40 0 6 c3 10 2 3 b3 1 e1 40 5 6 2 0 c2 3 53 2 5 2 38 1 8a 8d 2 46 16 57 79 0 1 de 5c 6 2e 84 0 a6 f6 1 a9 16 24 bc f8 40 cd e5 3 3a 55 47 3a 0 3b 3 40 0 2 
+Programs tested: 5000000
+First self-replicator found after: 1081220 programs
+Total unique self-replicators: 21
+Execution time: 1731.173 seconds
+----------------------------------------
+Distribution: CUST64
+Mutation probability: 1/50
+Self-replicating 1 (program 4051995, score 51): 40 0 a1 1 5 5 55 0 2 d6 5 4 3c 40 2d 40 0 93 ed 1 2f 53 0 6 5 c5 ef 86 3 5 6 40 40 77 40 0 6 1 5 40 a9 0 4e 9e 6 2 f9 0 1 2 40 4 1f 6 40 3 bc 40 6 3 1 1 4 3 
+Self-replicating 2 (program 4052995, score 59): 40 0 a1 1 5 5 55 0 2 d6 5 4 3c 40 2d 40 0 93 ed 1 2f 53 0 6 5 1 ef 86 3 5 6 40 1 77 40 0 7f 1 5 65 a9 0 4e 9e 6 2 f9 0 1 2 1d 4 1f 6 40 3 bc 40 6 3 dd 1 4 3 
+Self-replicating 3 (program 4053995, score 64): 40 0 a1 1 5 5 55 0 2 d6 5 4 3c 40 2d 40 0 93 ed 1 2f 53 0 6 5 1 ef 86 3 5 6 40 1 77 40 0 7f 1 5 65 a9 0 4e 9e 56 2 f9 0 1 2 1d 4 1f 6 40 3 bc 40 6 3 dd 1 4 3 
+Self-replicating 4 (program 4054995, score 62): 40 0 a1 1 5 5 55 0 2 d6 5 4 3c 40 59 40 0 93 ed 1 2f 53 0 6 5 1 ef 86 3 5 6 40 1 77 40 0 7f 1 5 65 a9 0 4e 9e 56 2 f9 0 1 2 1d 4 1f 6 40 3 bc 40 6 3 dd 1 4 3 
+Programs tested: 5000000
+First self-replicator found after: 4051995 programs
+Total unique self-replicators: 4
+Execution time: 1732.213 seconds
+----------------------------------------
+Distribution: CUST64
+Mutation probability: 1
+Self-replicating 1 (program 28673, score 59): 40 0 4d ac b9 5 f9 c8 3b 1b 4 0 e0 ac 6 99 0 2c fa 6 98 6 4f 6 1 5 31 40 90 c 9 4 f 40 8 5 6 1 0 36 6c ec aa 1 0 4 4 7d 7c 0 93 4 de 9a f8 6a 3 d4 1 88 8a 5 97 4f 
+Self-replicating 2 (program 66323, score 50): 40 0 5 bc f6 40 3 3 40 4 24 0 fc 6 1 0 2 2 ff 40 98 1 6 af b 5 1 5c 2 dd 1 2 47 4 63 4 d6 5 5 40 4 6 4 46 f4 7a f8 1 f1 79 1 2f 2d 6 3d 1 5 80 88 2 1d 0 3 3 
+Self-replicating 3 (program 106628, score 64): 40 0 4 6 0 4 6 2 3 5 0 c1 61 57 4a d7 7 4 15 be 40 d9 b e5 0 2 1 33 6 ff fa 2 5e e0 5 2 c0 cf 40 39 40 ee 0 f8 3 42 1 79 40 fb 2 3b 6 3 3 0 bb 81 a5 6 80 d2 4 5 
+Self-replicating 4 (program 156489, score 64): 40 0 5 3 4 4e 0 a 47 24 f0 6 85 8e 55 c7 5 26 a5 df a6 2 3 f6 a 86 5b 80 39 54 8 2 3 2 0 0 2 1 f3 9b 8a 32 49 be 92 0 4 3 0 ac 56 5 a6 2 4 3e 40 2 6 3 9e 67 4 2c 
+Self-replicating 5 (program 210174, score 54): 40 7f f7 bc 2 4 9 3a 2 3b 40 ba 29 2 5 df 3 18 e6 fd 4 2c 77 0 40 2b ce 3b a7 94 17 3 6 ab 4 3d 5 fa 1 40 6 bb 1 d4 d1 6 b4 1 a6 2c 40 f 0 0 51 f8 3b 1 26 b4 38 6 f4 5 
+Self-replicating 6 (program 1115991, score 53): b4 74 ce 2 0 58 39 2f 23 0 56 40 4 40 21 98 1c f8 40 4 40 2 c7 40 b5 9b e6 5 75 e2 4 0 40 9e 6 3 40 c8 40 6 22 0 1 4 40 2 40 1 5 9b c7 37 4 3 40 40 2d 40 5 48 71 40 d7 3d 
+Self-replicating 7 (program 1249976, score 54): 40 0 d 3 46 5 28 40 89 4 0 6 1e 60 68 4 21 1 3 2 5 6 ac 66 2 6e 6 fc 2 dd 6 6 8f 40 1 3 5 2 83 0 be 3a de 5 d2 1 4 2 b6 cf 86 57 40 88 4 64 2f 5e 6 8f 40 6 1 8a 
+Self-replicating 8 (program 1294246, score 60): 40 0 36 cd 5 4 0 40 3 b7 6 91 0 6 61 75 3b 11 a9 0 b8 2 40 25 d5 1c 27 5 6 40 68 2 af 2 6 1c 12 3 1 5 ff 4a 2 49 c e7 2 12 7f ab 5 b9 7e 61 0 40 40 5 4 40 1b 1 eb 86 
+Self-replicating 9 (program 1479938, score 62): 40 7e 5 2 40 40 4 10 68 4 61 c9 40 73 f6 ae 67 5e 7 87 9d 5 fb 2 4 6f a0 0 a5 6 40 d4 51 77 4f d6 8 2 3d 56 87 3 a9 2 6 2 6 fc 4 2 2 ad 48 17 97 bb 1 29 9e 0 39 bb 0 36 
+Self-replicating 10 (program 1568692, score 52): 40 0 5 3 ac 47 2 9d 3 2d 2 4 1c 2c 0 3 cb 40 7e 6 93 2 7a 0 5 81 ea f2 e5 5 95 40 2 a 1 d8 66 3 3 4 2 1 0 bc 5 6 6 6 d5 4 77 2c a8 0 2 2b 40 5 0 eb 62 5 f8 6 
+Self-replicating 11 (program 1688582, score 49): 40 0 2 8c 5 ff 4 67 0 4a bf 6 70 f0 46 13 bb 1 ac 4 98 4 15 be 0 cf 92 61 2 5 24 3 40 b4 1 4 f6 c6 4 0 16 0 7e 40 40 40 e b1 3 eb 5 e 51 75 40 5 14 4 6 7c ce 88 3 f1 
+Self-replicating 12 (program 1791994, score 64): 40 0 0 3e 1 40 e8 40 9a 4d 1 d0 72 50 fb 65 0 40 56 19 a0 5 4 0 e1 e8 40 6 7f 4 40 4 5 4 2 3 5 67 3 0 29 6 1 0 d7 6 6 0 6c 7c 40 8e 4 96 a3 a8 f1 44 1 1 1 a1 f0 86 
+Self-replicating 13 (program 1825202, score 62): 40 7f 84 1b 2 3c 5d 6 b5 96 6 2 97 3 80 9 c8 6a b3 ab 7c 4 5 b5 53 9b 5 2 a8 4 12 0 9a 3 7f 0 40 3 1 86 bf 3 3e b bb fb ec 6 db f7 2 65 9c 5 2 e4 2 7c 3 7a af 4a 66 b9 
+Self-replicating 14 (program 1871746, score 55): ba fa 5 d8 ff 2 4 0 df 3 2 2b 8 6 40 f e2 83 82 4 8e 9b 96 1 0 5 77 10 0 40 68 2 1 6 5 fa ae 2 5 3 40 5e 96 90 2 0 4 e3 6 4 2 40 28 1 5 0 6 22 6 5 5 3 3 5 
+Self-replicating 15 (program 1873158, score 56): 40 0 ac 69 8e ec 4 0 fb 5 55 4 0 6 83 3 6 42 ec 31 2 af b3 87 5 95 83 3 5 f7 af 2d fe 3 1 2 5 f9 43 4 3 2 3 90 5 4 52 6 5 da 6 55 5b 0 6 51 cc 9 6 db a0 3 2 b3 
+Self-replicating 16 (program 2023926, score 52): 42 0 5 3 0 92 ec 1 71 1 3 7d e4 1 d 0 0 1 2 54 4a db d4 1d 40 1 6 f1 60 cf 7a 0 40 2 3 bd 2 3 57 3 8a 2b ec 19 2a 0 b4 5 8e 4 c8 0 6 24 0 0 8b ac d8 46 44 40 0 e4 
+Self-replicating 17 (program 2107011, score 62): 40 0 4f 14 31 83 1c 24 5 d a1 2 7 5 4 91 50 bf 40 0 7 94 6 ec 1 a4 c8 ce 1 3 2 8f 40 f2 1 40 40 7e f0 cc 40 a9 3 44 14 d5 48 1 8f 0 0 3b 3e cf e2 6 7f dd 4f d9 a6 31 0 1 
+Self-replicating 18 (program 2209704, score 63): 40 0 f0 2d 3 65 5 8a 4 31 0 42 3 2 a9 f2 97 b1 6 2 4 4 4 a6 6c 7b 80 5 95 d3 c5 44 3 3 6 5f 4 90 40 5 40 9f 38 ca 4 38 6 3 c3 2 5e 0 40 6 7e 3 9d aa 7d ed 3 3 3 b3 
+Self-replicating 19 (program 2298566, score 63): 40 0 4 1 2 5 0 40 0 52 9f 2 5 3 4 a7 a9 0 6c b5 a5 df 5c ec 6b 63 1b fc 60 6 9a 64 83 a2 3 5 36 b7 3 42 2e 3 2 4 86 13 33 40 7d 3 17 98 40 4b 38 40 2 39 6b 1f a8 c7 2 45 
+Self-replicating 20 (program 2310933, score 64): 40 0 0 1 1 0 2 82 a7 5 84 4 a4 2 cc b1 40 49 3 57 0 a 1b 6 72 5 51 1 5 0 97 89 1 6 88 4 1 4 f0 2 1 6d 5 40 8b 1 1 40 0 4 80 fa 4 37 0 40 2 1 3 1c 3 ac c2 1 
+Self-replicating 21 (program 2512856, score 63): 40 0 3 ff 3 5 36 a5 46 4 49 35 6a 0 0 9a d 1 40 6 1 29 5c 58 2 91 1 8a 1 1a 5 54 5 6 db b4 0 b3 40 c8 6 7d 2 78 4 f1 2 1 25 4 40 3 40 4 1 f9 4e a9 40 d8 4 d4 39 e1 
+Self-replicating 22 (program 2707410, score 53): 40 0 4 71 0 cd 5 ab 2 18 2 3f 4 0 6 3 87 3 1a 1 c2 2 1 0 4 2c 2 9d ea ea c5 30 40 3 3 0 f5 40 5 d5 cd 79 4c 91 4a 3 5 4 5a 1 40 6c 0 fa 4 6 39 b9 0 4 ec 40 0 50 
+Self-replicating 23 (program 2873511, score 61): 40 0 4 0 5 4 0 6 0 5 17 0 a7 b 0 0 e1 11 a1 ac 33 78 2 6 58 1 b8 40 b1 f9 2 10 58 0 9c de 0 ad 5 6 1 0 1 4 9f 40 5 5 0 1 da 4 d7 cd 8b 5 6 40 18 ec f6 6 0 b0 
+Self-replicating 24 (program 2977465, score 63): 40 0 2 1 0 14 89 14 5 5 f 3e 5 eb 4 0 fa 40 6 84 4 53 3 85 9c 1 3f 3 1 4 1 68 40 ab 2 55 5 3 3a 61 5 6 5 1 47 e8 9a 2 6 5 3 8 1 17 5 3 40 9e 53 1 2 4 29 a1 
+Self-replicating 25 (program 3193582, score 49): 40 0 5e 34 3 db 2 d9 37 d6 6f c4 1 0 9d 5 5 2 69 c9 4 40 0 6 3 7f cb 78 3 25 54 40 d3 ac 2 1 5 a5 3e 4 44 1 40 ae 89 3 1 46 e2 40 5 ca d2 4 3 6b 8e 5a 1 0 ea c0 6d db 
+Self-replicating 26 (program 3214471, score 64): 40 0 4 2b ce 14 67 84 40 e6 13 6 0 4 9d e4 9b 6 0 1 1 6a bf 3 0 5 85 d5 4e 60 5a 7e 5f 1a 40 6 3 2 3c 2d 4 41 2 40 40 1 e 70 4 1 ff 47 0 dc ea 1 2b 6 1 e0 6 40 1 30 
+Self-replicating 27 (program 3250405, score 64): c1 0 b 1 c3 2f 48 d2 5 4 0 4c 6 40 40 23 92 d4 5 f8 0 40 a1 3 50 17 b0 5 96 0 75 bc 46 1 5 35 6a 5 78 22 6 5 2b 9d 2b 5 c1 40 e8 0 2 99 fc 2 2 4 4 24 1b 4 4e 2 6 d9 
+Self-replicating 28 (program 3250802, score 62): 41 0 3 a4 2 51 1 8 5 4 0 bc fd ee 4f af 2 b7 6 0 5 28 18 40 88 13 b4 89 1c 40 3 ee 0 d0 dc 2 3 6 5d 39 1 dd 0 6 1 39 4 6e 1 40 6 7b d3 5 40 0 40 1 1 6 78 b4 af 40 
+Self-replicating 29 (program 3350461, score 56): 40 0 c2 40 bc 2 69 5 40 bd 5 2f 4 0 df 32 46 3 2 4 0 3c ea 3 9a 14 99 6 4 c8 5 40 3 4 70 2f 3 40 6f 2 4 2 83 1 0 3 40 3 5a f8 ac 2 3a 2 96 1 5c 5 b6 42 8e 5 a6 a3 
+Self-replicating 30 (program 3466050, score 64): 40 0 5 ba 4 d7 b2 0 ba 29 4 0 6 1 6 14 5 cf 25 53 1 4 40 5 0 40 d8 2 5 1 2 6e 3 0 15 6 2 3 30 1 db 3f 21 9c db e9 0 5 0 d3 2b 7c 4 d0 5 b7 1f 14 2 4 3 5 8a 1 
+Self-replicating 31 (program 3509312, score 51): 40 0 5 7 b6 5 3 4 15 0 6 a2 40 2 b9 77 0 24 3 4 5 6 d1 f6 96 1 0 0 ce bd cc 3 0 3 2 4 20 40 af c4 5 40 1e 6 5 6c 3 0 6 1 4 99 bc c 2 69 92 a7 6 2 d 92 3 77 
+Self-replicating 32 (program 3538029, score 62): 40 80 a6 40 cd 86 40 a8 4 8f 0 6 6c 3 ae 5 0 8d 0 1 2 1 6 4 6 6 3 2 b7 8 c9 0 1 2 2 2 2 fc 5 0 57 1 2 1c 40 92 b8 ae 96 1b 0 be 6 3 6 40 2 4 16 0 69 1 3 2d 
+Self-replicating 33 (program 3632110, score 49): 40 0 5 9e 1f d2 a1 4e 4 1 fd 48 4a f8 4a 0 fc 0 2 3 6 67 a 0 5 3 7f f8 50 66 2 4 1 91 1d 4 40 3 16 90 4 4 49 11 cd af ca 0 8b 1 0 9d 4 3 ec 49 bb 8 aa 6 45 b1 3 b0 
+Self-replicating 34 (program 3751296, score 52): 40 0 5 12 2 4 0 7 1f 4 e 0 6 6d cb 5 f7 6 14 0 2 0 b2 81 f7 e7 3 d5 b9 1f 0 0 3 4 0 88 3 85 48 34 7e 3 ce dc 44 3 90 5 3 5 e9 4 e3 53 1 d1 6 9 88 a 6f 5 3 6 
+Self-replicating 35 (program 3797798, score 62): 40 0 5 4 80 38 1d 81 0 7a b cf 6 2 0 3 3 46 e5 5 6 21 ca 4 0 82 57 1 d8 5a 6 45 e2 5 2 19 db d1 ca 40 ee 33 6 4 ed 6 2 e1 f2 81 5 3 a9 a0 4c 6 9c e0 4 78 3 40 55 fd 
+Self-replicating 36 (program 3998634, score 62): bf 7f 4 0 6 1 86 4f 0 40 1 a4 4 5 12 40 4 5 33 b1 40 5e 5 0 72 0 0 0 40 6 4 3 b8 f5 0 f5 54 4 c6 1 1 3 3 0 59 5 53 fd 5 52 1 b1 d6 0 d0 18 2 f6 2 14 34 2f 94 35 
+Self-replicating 37 (program 4026751, score 55): b8 78 aa 40 4 25 d2 0 6 6c ba 48 1 ef 2 3c 5 6 52 d7 6 4 c5 f9 1 ba 1d 5 3 40 32 8b 3c 6a b9 a7 2 e0 6 1 b8 5a b0 4 5 e2 8e 40 80 5a 4 4 6e 1 5 5d 1 76 18 5 6 4 db 6f 
+Self-replicating 38 (program 4105457, score 64): 40 0 da 3 5 4 0 44 32 62 5a 6 5 6e 40 65 e2 7d 82 26 1 f5 4 a2 11 4 40 5 4 4 40 26 0 8c 5 5e 18 40 2 4 8e 0 4 1 5 3 81 ba 28 40 6 1 40 3 6 15 1 30 c8 48 10 a3 5 bd 
+Self-replicating 39 (program 4109594, score 60): 1 fd 6 0 3 89 a5 3 f4 0 2 0 38 6b f5 a5 40 ab 21 4 91 5 1 0 1 3 1 aa 9b a1 5 4 0 bd 6 66 40 1a 2 91 e2 2 75 39 0 18 2 4 5 0 19 d7 f2 b1 5 a5 f1 3 5 2 ee 0 c5 e0 
+Self-replicating 40 (program 4130033, score 60): 40 80 2 11 4 0 cf 3c 52 b3 9e e1 d8 6 5 1 1 b9 4 56 ec 4f 3 78 4 40 43 2 40 af da 2 cb b7 75 49 3 eb 51 1 6 0 8 6 1 69 76 40 fa 7 4c 75 47 1 40 bb 0 34 63 2a 1 58 33 c4 
+Self-replicating 41 (program 4401094, score 58): 3c fc 95 4 0 6 92 2 1 84 e8 78 47 72 26 f1 49 37 be 33 f7 5 1 cd 0 e2 7e 97 3 6a b8 5 f4 43 6 ee 5 3 5 73 1 1 2c a5 83 1 24 d1 3e 64 24 1 a0 d5 8e 50 3 cc dd a2 4 4 1 3 
+Self-replicating 42 (program 4495485, score 59): 3f 7f 8b 47 4 0 1d 85 10 f5 cf 6 c6 1 4 2 2 1 6 1 1 42 7a 5 6 40 1f 2 40 6 5 77 86 be f9 bc e9 0 2 d3 3 35 5 b0 0 8a 2 40 d9 5 3 6 fc 1 5 2 4 d3 0 d6 c2 40 10 48 
+Self-replicating 43 (program 4514093, score 52): 40 0 ba 2c 5 60 1 74 11 a4 40 2e 29 9e 0 68 78 4 19 0 6 6b 2 1 e7 0 6 40 28 17 6 0 1 40 5 25 88 3 6 40 39 fc 0 0 a d6 d4 1 69 1 4 49 cd 2 ee ac 1 0 5 40 6 0 e6 4 
+Self-replicating 44 (program 4743126, score 61): 40 fd 69 6e 2 1f 5 1 fb 3 bd e4 3 4 5 1 80 5 2 1c c9 40 4 0 0 7f 7b fe 4e 2 0 a1 1 1 2 d9 55 3a 2 9e 6 6 4 5 18 6 d4 1a a3 1f 4 fc a7 0 fb 1 59 3 40 69 0 5 a3 5 
+Self-replicating 45 (program 4800147, score 49): 40 80 0 16 2 b7 1 d 5 bd 2 33 d8 40 40 3 4 c0 b7 60 40 40 0 2 d9 b1 b2 6a 6 2 d5 2 39 c7 7 95 1 e2 15 c9 7 de 1c d5 3 5 6 5 7d 7 3 fe 1 4 0 48 0 0 2 0 3 3 2 0 
+Programs tested: 5000000
+First self-replicator found after: 28673 programs
+Total unique self-replicators: 45
+Execution time: 1741.267 seconds
+----------------------------------------
