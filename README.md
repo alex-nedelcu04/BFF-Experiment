@@ -2,7 +2,7 @@
 
 ## Nedelcu Alexandru-Constantin (341) & Săndulescu Ioan (341)
 
-This project searches for self-replicating 64-byte programs using a modified Brainfuck interpreter (BFF), based on [this paper](https://arxiv.org/abs/2607.01483).
+This project searches for self-replicating 64-byte programs using a modified Brainfuck interpreter (BFF), based on the paper [BFF: Simple explanations for complex phenomena](https://arxiv.org/abs/2607.01483).
 
 It tests three byte distributions (UNIFORM, CUST, CUST64) and four mutation probabilities (1/200, 1/100, 1/50, 1), evaluating each candidate through nine parallel trials of five generations.
 
@@ -15,11 +15,11 @@ g++ -O3 -std=c++20 -pthread main.cpp -o bff
 ./bff
 ```
 
-No input files are required. Each configuration tests up to 5,000,000 programs.
+No input files are required. Each configuration tests 5,000,000 programs.
 
 ## Experimental Results
 
-Programs tested until the first self-replicator:
+Position of the first detected self-replicator among 5,000,000 tested programs per configuration:
 
 | Distribution | p | Run 1 | Run 2 | Run 3 | Run 4 | Run 5 | Average | Median |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
@@ -39,11 +39,11 @@ Programs tested until the first self-replicator:
 `-` indicates no replicator found within 5,000,000 programs. Averages and medians exclude unsuccessful runs.
 
 Full outputs:
-- [Run 1](./output.out) (longer runtime due to a weaker CPU)
-- [Run 2](./output_run2.out)
-- [Run 3](./output_run3.out)
-- [Run 4](./output_run4.out)
-- [Run 5](./output_run5.out)
+- [output_run1.out](./output_run1.out) (longer runtime due to a weaker CPU)
+- [output_run2.out](./output_run2.out)
+- [output_run3.out](./output_run3.out)
+- [output_run4.out](./output_run4.out)
+- [output_run5.out](./output_run5.out)
 
 ## Conclusion
 
